@@ -86,7 +86,7 @@ Total: 11 creatures per jungle side (22 total)
 ## 🧾 Credits
 
 **Created by:** Marcelo dos Santos Prado  
-**Design and Lore:** Marcelo & Lyra  
+**Design and Lore:** Marcelo
 **Languages:** Portuguese, English, French  
 **Status:** Complete (Lore and Balance) – Coding to follow
 
