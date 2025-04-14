@@ -92,4 +92,4 @@ Total: 11 creatures per jungle side (22 total)
 
 ---
 
-© 2025 Marcelo dos Santos Prado & Lyra. All rights reserved.
+© 2025 Marcelo dos Santos Prado. All rights reserved.
